@@ -7,19 +7,10 @@ span.rss-time { color:#e6e6e6; font-size:.85em; }
 
 #peopleadmin a { color:#0033a0;}
 
-/*.rss-title {
-    background: rgba(0, 0, 0, 0) url("/Style%20Library/Images/pull-out-icons.png") no-repeat scroll 0 0;
-    display: block;
-    font-family: Arial,Helvetica,MS Sans Serif,sans-serif;
-    height: 40px;
-    line-height: 2.25em;
-    padding: 0 0 0 45px;
-}*/
 </style>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
   <script type="text/javascript" language="javascript" src="js/parser.js"></script>
-
 
 <script>
 // Source: http://codepen.io/markhillard/pen/jJDls
@@ -79,7 +70,8 @@ function parseFeed(url, container) {
 
 $(document).ready(function () {
     parseFeed('https://dcccd.peopleadmin.com/all_jobs.atom','#peopleadmin');
-});</script>
+});
+</script>
 
 
 <div id="section container-fluid jobs-rss">
