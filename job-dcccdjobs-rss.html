@@ -1,0 +1,86 @@
+<style>
+.rss-entry { 
+	padding:0px 10px 5px 45px;
+    background: rgba(0, 0, 0, 0) url("/SiteCollectionImages/DCCCD/SVG/green/icon-fa-check-circle-greencircle-white-30x30.png") no-repeat scroll 0 0; }
+
+span.rss-time { color:#e6e6e6; font-size:.85em; }
+
+#peopleadmin a { color:#0033a0;}
+
+/*.rss-title {
+    background: rgba(0, 0, 0, 0) url("/Style%20Library/Images/pull-out-icons.png") no-repeat scroll 0 0;
+    display: block;
+    font-family: Arial,Helvetica,MS Sans Serif,sans-serif;
+    height: 40px;
+    line-height: 2.25em;
+    padding: 0 0 0 45px;
+}*/
+</style>
+
+<script>
+// Source: http://codepen.io/markhillard/pen/jJDls
+// Google Feed API: https://developers.google.com/feed/
+// Inspiration: http://designshack.net/articles/javascript/build-an-automated-rss-feed-list-with-jquery/
+
+function parseFeed(url, container) {
+    $.ajax({
+        url: document.location.protocol + '//ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=5&callback=?&q=' + encodeURIComponent(url), // "num=5" will show 5 articles
+        dataType: 'json',
+        success: function (data) {
+            // log object data in console
+            console.log(data.responseData.feed);
+            // append feed link and title in container
+            // $(container).append('<a href="' + url + '"><span class="iconicstroke-rss-alt"></span></a>');
+            // $(container).append('<h1 class="feed">' + data.responseData.feed.title + '</h1>');
+            // for each entry... *
+            $.each(data.responseData.feed.entries, function (key, value) {
+                // * create new date object and pass in entry date
+                var date = new Date(value.publishedDate);
+                // * create months array
+                var months = new Array(12);
+                months[0] = 'January';
+                months[1] = 'February';
+                months[2] = 'March';
+                months[3] = 'April';
+                months[4] = 'May';
+                months[5] = 'June';
+                months[6] = 'July';
+                months[7] = 'August';
+                months[8] = 'September';
+                months[9] = 'October';
+                months[10] = 'November';
+                months[11] = 'December';
+                // * parse month, day and year
+                var month = date.getMonth();
+                var day = date.getDate();
+                var year = date.getFullYear();
+                // * assign entry variables
+                var title = '<h3 class="rss-title"><a href="' + value.link + '" target="_blank">' + value.title + '</a></h3>';
+                var time = '<span class="rss-date">' + months[month] + ' ' + day + ', ' + year +  ' - ' + '</span>';
+                var snippet = '<span class="rss-snippet">' + value.contentSnippet + '</span>'; // use "value.content" to get full article
+                var entry = '<div class="rss-entry">' + title + time + snippet + '</div>';
+                // * append entire entry in container
+                $(container).append(entry);
+            });
+        },
+        // if there's an error... *
+        error: function (errorThrown) {
+            // * log error message in console
+            console.log(errorThrown);
+            // * show error message
+            alert('Houston, we have a problem.');
+        }
+    });
+}
+
+$(document).ready(function () {
+    parseFeed('https://dcccd.peopleadmin.com/all_jobs.atom','#peopleadmin');
+});</script>
+
+
+<div id="section container-fluid jobs-rss">
+<div class="row">
+		<div class="col-sm-offset-2 col-sm-8 col-sm-offset-2">
+    <div id="peopleadmin"></div>
+</div>
+</div>
