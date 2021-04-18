@@ -3,7 +3,7 @@ title: 2021 Forney City Council Candidate Responses
 layout: post
 ---
 
-# 2021 Forney City Council Candidate Responses
+## 2021 Forney City Council Candidate Responses
 
 This is a raw conversion of transcript from the video interviews done by Spotlight Forney and inForney with the 2021 city council candidates for the City of Forney.
 
@@ -22,8 +22,8 @@ The transcripts are straight from the auto-generated captions on YouTube with ve
 * [Conclusion](https://jdblundell.github.io/2021-forney-city-council#conclusion)
 
 
-## Introductions
-### Jason Roberson
+### Introductions
+#### Jason Roberson
 Hi. I’m Jason Roberson and I’m running
 for Forney city council place six
 I’ve been married for 19 years to the
@@ -71,7 +71,7 @@ evolution
 of my servant leadership and I’m really
 looking forward to it 
 
-### Sarah Salgado
+#### Sarah Salgado
 hi my name is Sarah Salgado and I’m running for Forney
 city council place four
 I am a proud native texan I’m from a
@@ -112,7 +112,7 @@ address as a city
 I want to be part of the solution to
 manage those concerns 
 
-### Craig Chapman
+#### Craig Chapman
 hello Forney my name is Craig Chapman and I am running
 for city council in place
 four a little bit about myself my
@@ -162,10 +162,10 @@ well as your vote in our Forney city
 council
 for place four 
 
-## Question 1
+### Question 1
 **What qualities or expertise will you bring to the council that will be helpful to Forney?**
 
-### Jason Roberson
+#### Jason Roberson
 I have a background in marketing and
 communications
 I’ve been a journalist and as a
@@ -200,7 +200,7 @@ way that brings everybody in so that we
 can all take part
 in our democracy 
 
-### Sarah Salgado
+#### Sarah Salgado
 As a classroom teacher
 I did more
 than just teach I managed a team of
@@ -225,7 +225,7 @@ will be able to bring all those
 qualities to our leadership here in
 Forney 
 
-### Craig Chapman
+#### Craig Chapman
 I’ve been a pharmacist since 2014. One of the most important qualities of a
 pharmacist is being able to solve problems I get calls text messages from
 physicians all over DFW looking for help
@@ -248,10 +248,10 @@ together
 as one for the betterment of our
 community and our citizens
 
-## Question 2
+### Question 2
 **How do you define transparency and how important is it to you and what level of transparency should citizens and stakeholders expect from the city and council?**
 
-### Jason Roberson
+#### Jason Roberson
 It's interesting. Transparency to me is more than having
 access to publicly available documents
 it's being able to understand those
@@ -277,7 +277,7 @@ our role as a city council to make sure
 that the real bosses you the people are
 in charge
 
-### Sarah Salgado
+#### Sarah Salgado
 Transparency to me simply means having
 integrity integrity is choosing what's correct and
 what is right for our citizens even if
@@ -293,7 +293,7 @@ means having no outside influences
 influencing my vote or how I manage my
 time on the city council
 
-### Craig Chapman
+#### Craig Chapman
 Transparency to me sounds like a country
 phrase but it means speaking straight
 from the horse's mouth
@@ -327,10 +327,10 @@ transparency is
 what i'll bring to the Forney city
 council is this raw unfiltered truth
 
-## Question 3
-** Are there any developers, companies or organizations, or their representatives, with interest in Forney, that have contributed to your campaign financially, in kind or otherwise, or that have reached out to you or have reached out to you for information and or offer their support? Please explain.**
+### Question 3
+**Are there any developers, companies or organizations, or their representatives, with interest in Forney, that have contributed to your campaign financially, in kind or otherwise, or that have reached out to you or have reached out to you for information and or offer their support? Please explain.**
 
-### Jason Roberson
+#### Jason Roberson
 In short no now a more full answer is that right now
 less than five percent of voters
 actually vote less than five percent when that happens
@@ -344,7 +344,7 @@ vote we have to stay on fire about the
 issues we all have to take part
 in our democracy.
 
-### Sarah Salgado
+#### Sarah Salgado
 I’m actually not a politician
 at all I’m a concerned citizen who can
 see huge potential in Forney
@@ -373,7 +373,7 @@ when I vote it will be because it is
 what is best for our city employees
 our first responders and our citizens. 
 
-### Craig Chapman
+#### Craig Chapman
 My top three donors to this campaign are me
 myself and I i am totally self-funded
 throughout this campaign I don't
@@ -390,10 +390,10 @@ council
 I only want to be held accountable by
 you the people of Forney. 
 
-## Question 4
+### Question 4
 **Choose a recent instance of a council action you either agreed or disagreed with what would you have done differently or the same?**
 
-### Jason Roberson
+#### Jason Roberson
 The city has approved a plan
 for our roads but they have failed to
 act upon it I believe that our roads with all the
@@ -415,7 +415,7 @@ and we can get the answers that we need
 so that we can prepare Forney
 for the future.
 
-### Sarah Salgado
+#### Sarah Salgado
 A recent council action
 that has turned our city upside down
 is a situation regarding our chief of
@@ -452,7 +452,7 @@ I was on the city council I would have
 voted differently than our four members that voted to keep
 them. 
 
-### Craig Chapman
+#### Craig Chapman
 Being a frontline healthcare worker
 on this pandemic I strongly disagreed
 with the council's direction
@@ -473,10 +473,10 @@ have canceled the event or at least make
 it mandatory for a city of Forney employees to wear
 masks their safety should be top priority. 
 
-## Question 5
+### Question 5
 **How does Forney best plan for the future? What specifically would you do to help?**
 
-### Jason Roberson
+#### Jason Roberson
 Right now we have a lot of silos that
 are impeding our growth that are impeding
 our ability to move forward
@@ -513,7 +513,7 @@ but also is forward-thinking enough to
 plan for the future
 thank you. 
 
-### Sarah Salgado
+#### Sarah Salgado
 Our city is growing at a rapid
 pace. To manage and control that rapid pace we
 need to have firm plans set in place
@@ -563,7 +563,7 @@ we need to protect especially our
 relationship with our school district
 and our first responder groups.
 
-### Craig Chapman
+#### Craig Chapman
 I think the best thing Forney can do is realize
 that we are not only living in the best county
 in Texas it's the fastest growing people want to
@@ -598,7 +598,7 @@ but the people who are going to call
 Forney home
 decades from now.
 
-## Conclusion
+### Conclusion
 This concludes our spring 2021 video
 candidates forum for the city of Forney
 Texas we'd like to thank all the candidates
