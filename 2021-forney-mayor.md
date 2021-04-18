@@ -3,13 +3,13 @@ title: 2021 Forney Mayoral Candidate Responses
 layout: post
 ---
 
-# 2021 Forney Mayoral Candidate Responses
+## 2021 Forney Mayoral Candidate Responses
 
 This is a raw conversion of the transcript from the video interviews done by Spotlight Forney and inForney with the 2021 mayoral candidates for the City of Forney.
 
 The transcripts are straight from the auto-generated captions on YouTube with very minimal editing.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k_5TxjREIro" title="Spotlight Forney & InForney.com: Meet The Candidates 2021 Forney Mayoral & City Council Elections"></iframe>
+<iframe border="0" width="560" height="315" src="https://www.youtube.com/embed/k_5TxjREIro" title="Spotlight Forney & InForney.com: Meet The Candidates 2021 Forney Mayoral & City Council Elections"></iframe>
 
 [Watch the Video](https://youtu.be/k_5TxjREIro)
 
@@ -22,7 +22,7 @@ The transcripts are straight from the auto-generated captions on YouTube with ve
 * [Question 5](https://jdblundell.github.io/2021-forney-mayor#question-5)
 * [City Council Questions](https://jdblundell.github.io/2021-forney-city-council)
 
-## Video Intro
+### Video Intro
 Hi. I’m Samuel Hahn with spotlight Forney
 welcome to a first of its kind video
 form for candidates for Forney mayor
@@ -46,9 +46,9 @@ and now here are the candidates for
 Forney mayor and city council
 in their own words
 
-## Mayor Candidates
-### Introductions
-#### Mary Penn
+### Mayor Candidates
+#### Introductions
+##### Mary Penn
 
 hello everybody my name is mary penn I
 am the current mayor of Forney
@@ -98,7 +98,7 @@ everybody I’m friends with everybody I
 listen
 to the people and what they have to say
 
-#### Sandi Primos
+##### Sandi Primos
 
 hi my name is sandy with an eye primos
 the eyes for inspiration
@@ -141,7 +141,7 @@ one's in counseling one's in social work
 I know people love people and I’m here to
 serve the community of 40.
 
-#### Andrea Cannon
+##### Andrea Cannon
 hi my name is andrea cannon I have lived
 here in 40 for 15 years now
 and I really have no early idea what
@@ -152,7 +152,7 @@ too many pets
 and I’m a teacher I teach high school
 and I’ve been teaching for 13 years
 
-#### Amanda Lewis
+##### Amanda Lewis
 16 years hi I’m amanda lewis I’ve lived
 in Forney for about 18 years
 I come from a corporate and business
@@ -185,9 +185,9 @@ the secretary on the edc board for
 the city of Forney for the last four
 years 
 
-### Question 1
+#### Question 1
 **What actions or inactions led to your decision to run for the position of mayor?**
-#### Mary Penn
+##### Mary Penn
 why I wanted to become mayor and why I wanted
 to continue being mayor
 I wanted to become mayor because at the
@@ -216,7 +216,7 @@ and I feel like I’m the person that can
 get those done and that I’ve done a good
 job on the thing so far
 
-#### Sandi Primos
+##### Sandi Primos
 the actions that led me to
 in government that led me to run for
 mayor are very
@@ -240,7 +240,7 @@ about making history
 I’m talking about making a difference in
 our local community
 
-#### Andrea Cannon
+##### Andrea Cannon
 currently I am not happy with the way
 I’m seeing some of the growth
 and the ability for Forney to keep money
@@ -249,7 +249,7 @@ we seem to have a lot of businesses
 coming in that will encourage money to
 leave our community	
 
-#### Amanda Lewis
+##### Amanda Lewis
 as I mentioned earlier I’ve been on the
 edc board for the last four years
 so I have had a lot of interaction with
@@ -276,10 +276,10 @@ decisions therefore I decided to run for
 mayor so I can help lead in a proper way
 with my business background 
 
-### Question 2
+#### Question 2
 **What personal or professional experiences or skill sets do you have that makes you the best candidate for Forney's mayor?**
 
-#### Mary Penn
+##### Mary Penn
 right now the personal or professional
 skill sets
 that I have that I think would make me
@@ -316,7 +316,7 @@ and I feel as though I’ve been fielding
 them and
 giving them hope for a positive future
 
-#### Sandi Primos
+##### Sandi Primos
 well personally
 I have two master's degrees one's in
 counseling
@@ -349,14 +349,14 @@ family faith
 and fun faith is number one
 family second fun is third in that order
 
-#### Andrea Cannon
+##### Andrea Cannon
 I tend to be a very creative thinker and
 problem solver
 and I think that's a couple of
 characteristics that I’ve seen missing
 in our current um government
 
-#### Amanda Lewis
+##### Amanda Lewis
 I have both personal and professional
 skill sets let me talk first about the
 professional
@@ -396,9 +396,9 @@ to really understand the needs of the
 citizens and then to
 represent them properly 
 
-### Question 3
+#### Question 3
 **What specific plans or strategies do you have to bridge the divide between the city and stakeholders such as police fire economic development and Forney ISD**
-#### Mary Penn
+##### Mary Penn
 okay the specific plans
 that I have for uniting
 the city and the police and fire
@@ -438,7 +438,7 @@ other than that communication is the
 next best thing that we have we all need
 to be communicating with each other
  
-#### Sandi Primos
+##### Sandi Primos
 I’m just going to state the facts
 I’ve heard that there are some issues or
 concerns
@@ -459,7 +459,7 @@ fire department it doesn't matter
 we're all people and we all operate the
 same at the end of the day 
 
-#### Andrea Cannon
+##### Andrea Cannon
 the first thing that needs to be done is we need to get
 a good idea of what the people in Forney
 want we have so many new people coming
@@ -471,7 +471,7 @@ bigger picture and the only way to do
 that
 is to talk to our stakeholders 
 
-#### Amanda Lewis
+##### Amanda Lewis
 wow this is a loaded question
 I might take up my whole time on this
 my plans for let's start with the first
@@ -508,10 +508,10 @@ see if they have the credentials for
 doing the jobs in which they were hired
 to do
 
-### Question 4
+#### Question 4
 **If elected what could voters expect from you in the next year?**
 
-#### Mary Penn
+##### Mary Penn
 if I’m elected what voters can expect
 out of me from the next year is number
 one I
@@ -555,7 +555,7 @@ forward
 so I’m really looking forward to that
 and that's exciting for Forney
 
-#### Sandi Primos
+##### Sandi Primos
 you will see me i'll be visible i'll be
 visible to the city of Forney again
 I keep saying it I don't
@@ -574,13 +574,13 @@ but presence is what's really important
 right now
 you need to see me and i'll be there
 
-#### Andrea Cannon
+##### Andrea Cannon
 they can expect me to listen and to work
 towards
 solving some of our
 more prominent and urgent needs
 
-#### Amanda Lewis
+##### Amanda Lewis
 the voters can approach me
 I represent them the the structure is
 citizens
@@ -618,10 +618,10 @@ environment that people want to do
 business with Forney and that's what you
 can expect from me
 
-### Question 5
+#### Question 5
 **What are your biggest concerns for Forney's future what solutions do you offer?**
 
-#### Mary Penn
+##### Mary Penn
 my biggest concerns for
 Forney's future
 right now are police and fire the safety
@@ -640,14 +640,13 @@ that we are in this together we're going
 to work on this
 and we're going to fix this situation my
 
-#### Sandi Primos
+##### Sandi Primos
 biggest concerns for forage future
 are that there's a big divide
 I see that it's clear
 what I offer is a new set of eyes
 a new set of ears a new opportunity
 a new way of thinking
-[Music]
 listen I know that some things
 are are better said and left along the
 way they are
@@ -671,7 +670,7 @@ it's not necessary it's been going on
 for way
 too long that's my solution
 
-#### Andrea Cannon
+##### Andrea Cannon
 I believe I mentioned this before my
 biggest concern is that some of the
 businesses that we are bringing
@@ -683,7 +682,7 @@ and so I would like to see more small
 businesses and more local businesses
 and encourage better growth that way
 
-#### Amanda Lewis
+##### Amanda Lewis
 the biggest concern right now is the
 lack of transparency in my opinion
 from city management and the council I
@@ -729,10 +728,10 @@ therefore I think that's one of the
 biggest concerns at this point that
 they're not being represented properly
 
-### Question 6
+#### Question 6
 **What other issues define your campaign?** 
 
-#### Mary Penn
+##### Mary Penn
 The issues that define my campaign is I’m
 going to keep doing what I’ve always
 done I’ve walked and knocked on doors I’ve
@@ -744,7 +743,7 @@ I’m here for you I serve you and we're
 all in this together
 and thank you for your time 
 
-#### Sandi Primos
+##### Sandi Primos
 I’m thinking things like bullying within schools
 hostile work environments economic
 status meaning this to stimulate the economy
@@ -767,9 +766,8 @@ in foreign that I know I don't know
 about
 again I plan to assert myself
 all day every day because I have time
-[Music]
 
-#### Andrea Cannon
+##### Andrea Cannon
 infrastructure in general in Forney has
 not matched growth
 we have lots of new housing developments
@@ -778,7 +776,7 @@ without the infrastructure in place to
 deal with the people
 coming and going 
 
-#### Amanda Lewis
+##### Amanda Lewis
 I’ve already touched on
 first responders I’ve touched on the
 school district
