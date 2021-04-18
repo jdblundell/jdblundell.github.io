@@ -13,13 +13,13 @@ The transcripts are straight from the auto-generated captions on YouTube with ve
 
 [Watch the Video](https://youtu.be/k_5TxjREIro)
 
-* [Video Intro](https://jdblundell.github.io/2021-forney-mayor#Video-Intro)
-* [Introduction](https://jdblundell.github.io/2021-forney-mayor#Introductions)
-* [Question 1](https://jdblundell.github.io/2021-forney-mayor#Question-1)
-* [Question 2](https://jdblundell.github.io/2021-forney-mayor#Question-2)
-* [Question 3](https://jdblundell.github.io/2021-forney-mayor#Question-3)
-* [Question 4](https://jdblundell.github.io/2021-forney-mayor#Question-4)
-* [Question 5](https://jdblundell.github.io/2021-forney-mayor#Question-5)
+* [Video Intro](https://jdblundell.github.io/2021-forney-mayor#video-intro)
+* [Introduction](https://jdblundell.github.io/2021-forney-mayor#introductions)
+* [Question 1](https://jdblundell.github.io/2021-forney-mayor#question-1)
+* [Question 2](https://jdblundell.github.io/2021-forney-mayor#question-2)
+* [Question 3](https://jdblundell.github.io/2021-forney-mayor#question-3)
+* [Question 4](https://jdblundell.github.io/2021-forney-mayor#question-4)
+* [Question 5](https://jdblundell.github.io/2021-forney-mayor#question-5)
 * [City Council Questions](https://jdblundell.github.io/2021-forney-city-council)
 
 ## Video Intro
