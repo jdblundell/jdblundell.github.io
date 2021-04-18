@@ -5,7 +5,7 @@ layout: post
 
 # 2021 Forney Mayoral Candidate Responses
 
-This is a raw conversion of the video interviews done by Spotlight Forney and inForney with the 2021 mayoral candidates for the City of Forney.
+This is a raw conversion of the transcript from the video interviews done by Spotlight Forney and inForney with the 2021 mayoral candidates for the City of Forney.
 
 The transcripts are straight from the auto-generated captions on YouTube with very minimal editing.
 
