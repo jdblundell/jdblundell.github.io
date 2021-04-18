@@ -13,6 +13,17 @@ The transcripts are straight from the auto-generated captions on YouTube with ve
 
 [Watch the Video](https://youtu.be/k_5TxjREIro?t=1694)
 
+* [Introduction](https://jdblundell.github.io/2021-forney-mayor#Introductions)
+* [Question 1](https://jdblundell.github.io/2021-forney-mayor#Question-1)
+* [Question 2](https://jdblundell.github.io/2021-forney-mayor#Question-2)
+* [Question 3](https://jdblundell.github.io/2021-forney-mayor#Question-3)
+* [Question 4](https://jdblundell.github.io/2021-forney-mayor#Question-4)
+* [Question 5](https://jdblundell.github.io/2021-forney-mayor#Question-5)
+* [Conclusion](https://jdblundell.github.io/2021-forney-mayor#Conclusion)
+
+
+
+
 ## Introductions
 ### Jason Roberson
 Hi. I’m Jason Roberson and I’m running
