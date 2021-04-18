@@ -184,7 +184,7 @@ the secretary on the edc board for
 the city of Forney for the last four
 years 
 
-#### Question 1
+### Question 1
 **What actions or inactions led to your decision to run for the position of mayor?**
 #### Mary Penn
 why I wanted to become mayor and why I wanted
@@ -275,7 +275,7 @@ decisions therefore I decided to run for
 mayor so I can help lead in a proper way
 with my business background 
 
-#### Question 2
+### Question 2
 **What personal or professional experiences or skill sets do you have that makes you the best candidate for Forney's mayor?**
 
 #### Mary Penn
@@ -395,7 +395,7 @@ to really understand the needs of the
 citizens and then to
 represent them properly 
 
-#### Question 3
+### Question 3
 **What specific plans or strategies do you have to bridge the divide between the city and stakeholders such as police fire economic development and Forney ISD**
 #### Mary Penn
 okay the specific plans
@@ -507,7 +507,7 @@ see if they have the credentials for
 doing the jobs in which they were hired
 to do
 
-#### Question 4
+### Question 4
 **If elected what could voters expect from you in the next year?**
 
 #### Mary Penn
@@ -617,7 +617,7 @@ environment that people want to do
 business with Forney and that's what you
 can expect from me
 
-#### Question 5
+### Question 5
 **What are your biggest concerns for Forney's future what solutions do you offer?**
 
 #### Mary Penn
@@ -727,7 +727,7 @@ therefore I think that's one of the
 biggest concerns at this point that
 they're not being represented properly
 
-#### Question 6
+### Question 6
 **What other issues define your campaign?** 
 
 #### Mary Penn
