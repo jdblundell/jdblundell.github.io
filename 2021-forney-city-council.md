@@ -9,9 +9,9 @@ This is a raw conversion of transcript from the video interviews done by Spotlig
 
 The transcripts are straight from the auto-generated captions on YouTube with very minimal editing.
 
-<a href="https://youtu.be/k_5TxjREIro?t=1694"><img src="http://img.youtube.com/vi/k_5TxjREIro/0.jpg" 
-alt="Watch the video"/></a>
-[Watch the Video](https://youtu.be/k_5TxjREIro)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_5TxjREIro?t=1694" title="Spotlight Forney & InForney.com: Meet The Candidates 2021 Forney Mayoral & City Council Elections"></iframe>
+
+[Watch the Video](https://youtu.be/k_5TxjREIro?t=1694)
 
 ## Introductions
 ### Jason Roberson
