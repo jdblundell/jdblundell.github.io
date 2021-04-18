@@ -9,8 +9,9 @@ This is a raw conversion of the video interviews done by Spotlight Forney and in
 
 The transcripts are straight from the auto-generated captions on YouTube with very minimal editing.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/k_5TxjREIro"><img src="http://img.youtube.com/vi/k_5TxjREIro/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=k_5TxjREIro"><img src="http://img.youtube.com/vi/k_5TxjREIro/0.jpg" 
 alt="Watch the video" width="240" height="180" border="10" /></a>
+[Watch the Video](https://youtu.be/k_5TxjREIro)
 
 ## Video Intro
 [Music]
