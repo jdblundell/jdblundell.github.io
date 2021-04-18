@@ -13,7 +13,8 @@ The transcripts are straight from the auto-generated captions on YouTube with ve
 
 [Watch the Video](https://youtu.be/k_5TxjREIro?t=1694)
 
-* [Introduction](https://jdblundell.github.io/2021-forney-city-council#introductions)
+* [Mayoral Questions](https://jdblundell.github.io/2021-forney-mayor)
+* [Candidate Introductions](https://jdblundell.github.io/2021-forney-city-council#introductions)
 * [Question 1](https://jdblundell.github.io/2021-forney-city-council#question-1)
 * [Question 2](https://jdblundell.github.io/2021-forney-city-council#question-2)
 * [Question 3](https://jdblundell.github.io/2021-forney-city-council#question-3)
