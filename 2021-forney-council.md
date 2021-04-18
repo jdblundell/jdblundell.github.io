@@ -3,7 +3,7 @@ title: 2021 Forney Mayoral Candidate Responses
 layout: post
 ---
 
-# 2021 Forney Candidate Responses
+# 2021 Forney Mayoral Candidate Responses
 
 This is a raw conversion of the video interviews done by Spotlight Forney and inForney with the 2021 mayoral candidates for the City of Forney.
 
@@ -14,10 +14,7 @@ alt="Watch the video" width="240" height="180" border="10" /></a>
 [Watch the Video](https://youtu.be/k_5TxjREIro)
 
 ## Video Intro
-[Music]
-[Music]
-hi
-I’m samuel hahn with spotlight Forney
+Hi. I’m Samuel Hahn with spotlight Forney
 welcome to a first of its kind video
 form for candidates for Forney mayor
 and city council the candidates are on
