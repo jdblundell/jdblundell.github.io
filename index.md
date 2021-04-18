@@ -7,4 +7,4 @@ layout: post
 
 A place for quickly sharing information and documents on the web.
 
-* [Forney 2021 City Council Candidate Responses] (https://jdblundell.github.io//2021-forney-council.html)
+* [Forney 2021 City Council Candidate Responses](https://jdblundell.github.io//2021-forney-council.html)
