@@ -12,6 +12,8 @@ The transcripts are straight from the auto-generated captions on YouTube with ve
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k_5TxjREIro"><img src="http://img.youtube.com/vi/k_5TxjREIro/0.jpg" 
 alt="Watch the video"/></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_5TxjREIro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [Watch the Video](https://youtu.be/k_5TxjREIro)
 
 ## Video Intro
