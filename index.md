@@ -1,9 +1,7 @@
 ---
-title: This is my title
+title: jdblundell on Github Pages
 layout: post
 ---
-
-Hello world 
 
 ## jdblundell on Github Pages
 
