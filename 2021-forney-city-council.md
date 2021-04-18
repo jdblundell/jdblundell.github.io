@@ -217,12 +217,9 @@ qualities to our leadership here in
 Forney 
 
 ### Craig Chapman
-I’ve been a pharmacist since
-2014. One of the most important qualities of a
-pharmacist is being able to solve
-problems
-I get calls text messages from
-physicians all over dfw looking for help
+I’ve been a pharmacist since 2014. One of the most important qualities of a
+pharmacist is being able to solve problems I get calls text messages from
+physicians all over DFW looking for help
 whether it be an elderly patient who
 can't swallow her meds
 a young patient who spits out their meds
