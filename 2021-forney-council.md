@@ -179,7 +179,7 @@ the city of Forney for the last four
 years 
 
 ### Question 1
-** What actions or inactions led to your decision to run for the position of mayor? **
+**What actions or inactions led to your decision to run for the position of mayor?**
 #### Mary Penn
 why I wanted to become mayor and why I wanted
 to continue being mayor
@@ -270,7 +270,7 @@ mayor so I can help lead in a proper way
 with my business background 
 
 ### Question 2
-** What personal or professional experiences or skill sets do you have that makes you the best candidate for Forney's mayor? **
+**What personal or professional experiences or skill sets do you have that makes you the best candidate for Forney's mayor?**
 
 #### Mary Penn
 right now the personal or professional
@@ -390,7 +390,7 @@ citizens and then to
 represent them properly 
 
 ### Question 3
-** What specific plans or strategies do you have to bridge the divide between the city and stakeholders such as police fire economic development and Forney isd **
+**What specific plans or strategies do you have to bridge the divide between the city and stakeholders such as police fire economic development and Forney ISD**
 #### Mary Penn
 okay the specific plans
 that I have for uniting
@@ -502,7 +502,7 @@ doing the jobs in which they were hired
 to do
 
 ### Question 4
-** If elected what could voters expect from you in the next year? **
+**If elected what could voters expect from you in the next year?**
 
 #### Mary Penn
 if I’m elected what voters can expect
@@ -612,7 +612,7 @@ business with Forney and that's what you
 can expect from me
 
 ### Question 5
-** What are your biggest concerns for Forney's future what solutions do you offer? **
+**What are your biggest concerns for Forney's future what solutions do you offer?**
 
 #### Mary Penn
 my biggest concerns for
@@ -723,7 +723,7 @@ biggest concerns at this point that
 they're not being represented properly
 
 ### Question 6
-** what other issues define your campaign ** 
+**What other issues define your campaign?** 
 
 #### Mary Penn
 The issues that define my campaign is I’m
