@@ -111,13 +111,13 @@ House Bill 347 adopted two years ago limits the ability to annex without landown
 
 **4. What city services and/or amenities are lacking in Forney and how do you plan to address the shortfalls?**
 City Services lacking:
-a.	Police (standard hovers around 2/ 1,000 residents). We are understaffed and not up to market. Current staffing level is at 32.
-b.	Fire as mentioned above has higher demand for services and has received no COLA since 2016. 
-c.	Street department has a high demand for service. We need to address the staffing level, funding, and its priority list.
+* a.	Police (standard hovers around 2/ 1,000 residents). We are understaffed and not up to market. Current staffing level is at 32.
+* b.	Fire as mentioned above has higher demand for services and has received no COLA since 2016. 
+* c.	Street department has a high demand for service. We need to address the staffing level, funding, and its priority list.
 Amenities lacking:
-i.	Community Park on the north side of 80
-ii.	Community Center/ Senior and Youth Facility
-iii.	Library
+* i.	Community Park on the north side of 80
+* ii.	Community Center/ Senior and Youth Facility
+* iii.	Library
 
 **5. TxDOT, NCTCOG and Kaufman County have several long term plans for transportation plans involving Forney, including widening Hwy 80 and possibly passenger rail going to Terrell. How will you work with these entities to ensure transportation infrastructure is maximized to best serve the future growth in and around Forney?**
 
