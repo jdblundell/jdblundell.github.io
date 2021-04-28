@@ -95,7 +95,7 @@ This is an important question because it represents a stark difference between m
 
 My opponent and her team are running on the platform that the answer to our congestion problem is to form a coalition with neighboring cities and that adding lanes is always an easy fix. This is simply wishful thinking not based in reality. Coalitions do not work as far as TxDOT is concerned. They operate based on algorithms powered by traffic studies, growth estimates, and existing demand. There is nothing a coalition can do to sway TxDOT in acting a certain way. The I-45 Coalition in the Houston area has been a 4 year disaster and is why Judge Lina Hidalgo filed a lawsuit against TxDOT. As far as lane expansion goes, it's not as simple as my opponent makes it out to be. Yes we need roads and a certain number of lanes for a city to function. We have to make sure residents can get from point A to point B as well as make sure emergency services can respond appropriately. But if adding lanes to an existing road reduced congestion, why hasn't it happened in other Dallas area suburbs where they've spent millions of dollars while seeing zero relief in traffic? If you want to take this example to an extreme, look at California. They continue to expand the 101 freeway in Los Angeles yet traffic continues to be at historic levels, the opposite of its intended goal. The expansion of major highways is not for the local benefit but for the benefit of the region as a whole to fulfill TxDOT's primary mission and vision to move people & connect Texans. The city has a thoroughfare plan in place which will help with traffic flow as our city continues to grow. We must make sure to not waste millions of tax dollars on false promises.
 
-##Amanda Lewis
+## Amanda Lewis
 
 **1. What is the role of the mayor and city council?**
 
@@ -114,6 +114,7 @@ City Services lacking:
 * a.	Police (standard hovers around 2/ 1,000 residents). We are understaffed and not up to market. Current staffing level is at 32.
 * b.	Fire as mentioned above has higher demand for services and has received no COLA since 2016. 
 * c.	Street department has a high demand for service. We need to address the staffing level, funding, and its priority list.
+
 Amenities lacking:
 * i.	Community Park on the north side of 80
 * ii.	Community Center/ Senior and Youth Facility
