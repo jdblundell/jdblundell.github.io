@@ -94,3 +94,31 @@ Our top 3 expenditures in the budget for FY 2021 are police, fire, and streets w
 This is an important question because it represents a stark difference between me and my opponent in this election. I've spoken with Mr Zook who is the city engineer for Forney and he meets with TxDOT on a monthly basis. He is our advocate and has done a great job. Highway 80 and 1641 are both set to build out fall 2022, 548 is set to build out spring 2023, and the major work being done on 741 is set for 2025. Those dates are set because of the positive relationship we have with TxDOT. 
 
 My opponent and her team are running on the platform that the answer to our congestion problem is to form a coalition with neighboring cities and that adding lanes is always an easy fix. This is simply wishful thinking not based in reality. Coalitions do not work as far as TxDOT is concerned. They operate based on algorithms powered by traffic studies, growth estimates, and existing demand. There is nothing a coalition can do to sway TxDOT in acting a certain way. The I-45 Coalition in the Houston area has been a 4 year disaster and is why Judge Lina Hidalgo filed a lawsuit against TxDOT. As far as lane expansion goes, it's not as simple as my opponent makes it out to be. Yes we need roads and a certain number of lanes for a city to function. We have to make sure residents can get from point A to point B as well as make sure emergency services can respond appropriately. But if adding lanes to an existing road reduced congestion, why hasn't it happened in other Dallas area suburbs where they've spent millions of dollars while seeing zero relief in traffic? If you want to take this example to an extreme, look at California. They continue to expand the 101 freeway in Los Angeles yet traffic continues to be at historic levels, the opposite of its intended goal. The expansion of major highways is not for the local benefit but for the benefit of the region as a whole to fulfill TxDOT's primary mission and vision to move people & connect Texans. The city has a thoroughfare plan in place which will help with traffic flow as our city continues to grow. We must make sure to not waste millions of tax dollars on false promises.
+
+##Amanda Lewis
+
+**1. What is the role of the mayor and city council?**
+
+The role of the mayor and city council is to administer the budget, propose and adhere to ordinances, manage municipal affairs, give guidance to city management whilst representing the city’s constituents’ best interests to ensure a viable future. The mayor’s role in particular is to lead the group, guide the conversation at Council meetings, and be a knowledgeable resource for its citizens and council members at all times. The Mayor is both this and a representative of the City and its residents to the outside communities.
+
+**2. What is the role of the city government?** 
+
+The role of the city government is to oversee the operations and functions of the City. This includes ensuring the proper level of protection from the Fire and Police departments, coordinating the appropriate infrastructure, providing amenities, and being a partner to other taxing entities. All of this is accomplished under the umbrella of its adopted budget through the proper utilization of its funds.
+
+**3. With the large growth happening in the city limits as well as outside the city limits (including in Dallas and Mesquite ETJs as well as Kaufman County), what are your thoughts on future annexation or land swaps for Forney?**
+
+House Bill 347 adopted two years ago limits the ability to annex without landowner or voter approval.  I can’t imagine those in the ETJ voting as a whole to be incorporated with the City alongside its taxes and this is no longer a viable option for cities in Texas. I think more importantly is how we serve those in the ETJ – particularly in regards to Fire. Over 40% of calls coming in are from outside the City limits. We need the funding and staff to continue to meet the needs of these new residents.
+
+**4. What city services and/or amenities are lacking in Forney and how do you plan to address the shortfalls?**
+City Services lacking:
+a.	Police (standard hovers around 2/ 1,000 residents). We are understaffed and not up to market. Current staffing level is at 32.
+b.	Fire as mentioned above has higher demand for services and has received no COLA since 2016. 
+c.	Street department has a high demand for service. We need to address the staffing level, funding, and its priority list.
+Amenities lacking:
+i.	Community Park on the north side of 80
+ii.	Community Center/ Senior and Youth Facility
+iii.	Library
+
+**5. TxDOT, NCTCOG and Kaufman County have several long term plans for transportation plans involving Forney, including widening Hwy 80 and possibly passenger rail going to Terrell. How will you work with these entities to ensure transportation infrastructure is maximized to best serve the future growth in and around Forney?**
+
+Forney has 6 projects in the Kaufman County Transportation Bond package and an approved ‘Thoroughfare Plan’, which has seen little traction. City management may meet regularly with the County TxDOT consultant, but elected officials have not. I would propose that Council meet with neighboring cities along the Highway 80 corridor and county-elected officials and form a ‘coalition’. We would be an asset as a whole to have a presence at both regional and state offices. Does TxDOT need something from Forney? What is Forney being asked to contribute? Regardless, what is currently being done is clearly not working, so Forney needs to work with its partners to help in the best ways possible to have a presence and aid in any way to escalate the Highway 80 expansion on its list.
