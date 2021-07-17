@@ -6,7 +6,7 @@ layout: post
 ## jdblundell on Github Pages
 
 ### Maps of Israel Project
-* [Israel in Judges and Samuel](https://jdblundell.github.io/map-of-israel)
+* [Israel in Judges and Samuel](https://jdblundell.github.io/israel-map)
 
 ### Forney City Council Elections
 * [Forney 2021 Mayoral Candidate Responses](https://jdblundell.github.io/2021-forney-mayor)
