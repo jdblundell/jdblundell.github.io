@@ -25,7 +25,7 @@ Cities included:
 * Jerusalem (Jebus)
 * Joppa
 * Kiriath-jearim
-* Ramathaim-zohim
+* Ramathaim-zohim (Ramah)
 * Mizpah
 
 
