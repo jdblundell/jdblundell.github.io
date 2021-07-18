@@ -10,6 +10,7 @@ Note: this map is meant to be representative and may not be exact.
 [View Map Full Size](/images/israel-samuel-1-7.png)
 
 Cities included:
+* Aphek
 * Ashod
 * Ashkelon
 * Bethel
@@ -18,16 +19,15 @@ Cities included:
 * Ekron
 * Gath
 * Gaza
+* Gilgal
 * Laish/Dan
-* Nazareth
-* Shiloh
-* Jabesh Giliad
 * Jerusalem (Jebus)
 * Joppa
 * Kiriath-jearim
-* Ramathaim-zohim (Ramah)
 * Mizpah
-
+* Nazareth
+* Ramathaim-zohim (Ramah)
+* Shiloh
 
 
 ![Map of Israel and Philistia](/images/israel-samuel-1-7.png)
