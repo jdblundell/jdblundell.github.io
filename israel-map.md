@@ -1,5 +1,5 @@
 ---
-title: Map of Israel
+title: Map of Israel in Judges
 layout: post
 ---
 
