@@ -3,6 +3,6 @@ title: Map of Israel
 layout: post
 ---
 
-## Map of Israel
+## Map of Israel in Judges
 
-![Map of Israel and Tribes](/map-of-israel.png)
+![Map of Israel and Tribes](/images/map-of-israel.png)
