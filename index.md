@@ -6,7 +6,7 @@ layout: post
 ## jdblundell on Github Pages
 
 ### Social Media Long Form
-* [Tara Beth Leach Abortion Quote](https://jdblundell.github.io/abortionquote)
+* [Tara Beth Leach Abortion Quote](https://jdblundell.github.io/abortion-quote)
 
 ### Maps of Israel Project
 * [Israel in Judges](https://jdblundell.github.io/israel-map-judges)
