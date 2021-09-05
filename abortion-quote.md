@@ -17,4 +17,4 @@ layout: post
 * [How to add alt-text on Facebook](https://publish.illinois.edu/accessibility-training/2019/11/11/how-to-add-alt-text-in-facebook/)
 * [How to add alt-text on Instagram](https://accessnow.com/blog/how-to-add-alt-text-to-instagram-photos/)
 * Check images on Twitter for alt-text by replying to the post with @@ImageAltText 
-</footer>
+</div>
