@@ -8,6 +8,9 @@ layout: post
 > When it comes to abortion, we have allowed the left and/or the right to hijack the Christian imagination. Instead of leaning into the creative and redemptive artistry of the Spirit, we instead regurgitate sound bytes from whatever political party we've hitched ourselves to. At best, this is lazy work for the Christian. At worst, it's disconnected from the heart of the Triune God. - Tara Beth Leach
 
 ------
+
+
+
 ## Always make sure your social media posts are accessible to all.
 * [Best Practices for Social Media Accessibility](https://publish.illinois.edu/accessibility-training/2019/11/05/best-practices-for-social-media-accessibility/)
 * [How to add alt-text on Twitter](https://publish.illinois.edu/accessibility-training/2019/11/11/how-to-add-alt-text-on-twitter/)
