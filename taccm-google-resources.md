@@ -15,4 +15,5 @@ layout: post
 * [Building Dashboards from Smashing Magazine](https://mailchi.mp/smashingmagazine/353-dashboards-and-data-visualization?e=0df16fc148)
 * [UTM Generator](https://utmbuilder.net/)
 * [UTM Validator](https://www.digiguru.xyz/utm-validator)
-* [Dallas College UTM Builder]
+* [Dallas College UTM Builder](https://github.com/jdblundell/jdblundell.github.io/raw/master/dallas-college-naming-tool-clean.xlsx)
+* my daddy is awesome,I love him, he is amazing,he isnthe best at his job, and he is THE BEST DAD EVER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
