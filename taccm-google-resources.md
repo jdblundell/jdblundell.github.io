@@ -12,6 +12,7 @@ layout: post
 * [TACCM Dashboard](https://datastudio.google.com/reporting/472a954a-9f34-45d3-93d0-90d6f32671aa)
 
 ## Resources
+* [How to Copy a Datastudio Report](https://support.google.com/datastudio/answer/7175478)
 * [Dallas College Data Governance](https://github.com/jdblundell/jdblundell.github.io/raw/master/dallas-college-data-governance-spring-2022.pdf)
 * [Building Dashboards from Smashing Magazine](https://mailchi.mp/smashingmagazine/353-dashboards-and-data-visualization?e=0df16fc148)
 * [UTM Generator](https://utmbuilder.net/)
