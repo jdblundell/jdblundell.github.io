@@ -8,6 +8,7 @@ layout: post
 * [Texting Overview](https://datastudio.google.com/reporting/a98fdc0d-71d7-4bd0-9d21-ac580fcb00be)
 * [Department Dashboard](https://datastudio.google.com/reporting/f096c90b-67ce-4759-aa10-f73668f95f48)
 * [Campaign Dashboard](https://datastudio.google.com/reporting/037ab925-4c48-4bd9-8782-be9892f1feac)
+* [Events Dashboard](https://datastudio.google.com/reporting/85f00785-51dd-4368-bf26-c9feaaaecc18)
 * [Broken Link Report](https://datastudio.google.com/reporting/1af50015-739e-427c-a8eb-dde419ec2331)
 * [Faculty Email Sample](https://datastudio.google.com/s/oh2nGAunKVk)
 * [TACCM Dashboard](https://datastudio.google.com/reporting/472a954a-9f34-45d3-93d0-90d6f32671aa)
