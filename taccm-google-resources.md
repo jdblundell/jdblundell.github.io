@@ -15,7 +15,7 @@ layout: post
 
 ## Resources
 * [How to Copy a Datastudio Report](https://support.google.com/datastudio/answer/7175478)
-* [Dallas College Data Governance](https://github.com/jdblundell/jdblundell.github.io/raw/master/dallas-college-data-governance-spring-2022.pdf)
+* [Dallas College Data Governance](https://jdblundell.github.io/dallas-data-gov)
 * [Building Dashboards from Smashing Magazine](https://mailchi.mp/smashingmagazine/353-dashboards-and-data-visualization?e=0df16fc148)
 * [UTM Generator](https://utmbuilder.net/)
 * [UTM Validator](https://www.digiguru.xyz/utm-validator)
