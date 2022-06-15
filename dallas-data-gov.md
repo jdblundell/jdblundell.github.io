@@ -112,14 +112,14 @@ However, on a broader basis, likes are not data you can use to make decisions on
 an overall multi-channel campaign, because they do not tell you anything about how many users 
 converted or took a real action.
 
-| Vanity Metric |Actionable Metric |
-|---|---|
+| Vanity Metric | Actionable Metric |
+| --- | --- |
 | Trial Users | Converting Users| 
 | Page Views | Conversion Rate |
 | Social Media ‘Likes’ | Social Media Engagement/Referrals |
 | Email Subscribers | Email Opt-in Conversion Rate |
 | Leads in Sales Funnel | Cohort Analysis of Sales Funnel |
-|  Marketing Spend | Return on Marketing Investment |
+| Marketing Spend | Return on Marketing Investment |
 | Total Students Acquired | Customer Acquisition Cost |
 | Monthly Revenue per Customer | Customer Lifetime Value |
 
