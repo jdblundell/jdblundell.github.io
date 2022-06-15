@@ -3,24 +3,24 @@ title: Dallas College Marketing Data Governance
 layout: post
 ---
 
-## Data Governance Guidelines for Marketing
-### What is Data Governance?
+# Data Governance Guidelines for Marketing
+## What is Data Governance?
 
 Data governance is a framework used by an organization to ensure that the correct, consistent 
 data is informing our various functions. Rather than bringing in dirty data and trying to clean it 
 and make sense of it later, there are steps we can take on the front end to ensure that data is 
 collected in a consistent, uniform way, ahead of our marketing campaigns.
 
-Simply Put:
+### Simply Put:
 When you put a link out into the world to market something – for a digital ad, an email, a social 
 media post, whatever the medium may be – you need to have tracking parameters attached to it 
 to clearly show in your data how your audience found you.
 
-### When Things Go Wrong
+## When Things Go Wrong
 Here are some more examples of how inconsistency in tagging and tracking can create issues in 
 datasets. (This is not exclusive to Facebook or social media; it’s just one of the easier examples.)
 
-#### Source/Medium
+### Source/Medium
 * belo / facebook
 * workreadyu ESL / social
 * (direct) / (none)
@@ -32,12 +32,12 @@ datasets. (This is not exclusive to Facebook or social media; it’s just one of
 * l.facebook.com / referral
 * facebook.com / referral
 
-### Why is Data Governance Important?
-#### Consistency and Data Integrity
+## Why is Data Governance Important?
+### Consistency and Data Integrity
 To ensure our reporting is correct, a strategy for data integration must be applied at the beginning 
 of the campaign and it must be used consistently throughout.
 
-#### What Can Go Wrong
+### What Can Go Wrong
 If not tagged and tracked, results can be missed. Google Analytics considers Facebook, facebook, 
 FB, and Facebook.com to be different sources. (Machines tend to be very literal). Without 
 effective data governance, your traffic will be split, causing data integrity issues that will affect 
@@ -45,19 +45,19 @@ accuracy, reporting, and decision making. Cleaning up data at the end of a proje
 and ineffective, while a little time in the development phase of a project will help automate much 
 of the work and support better results.
 
-#### Campaign Tracking
+### Campaign Tracking
 If an analytics request comes in, without proper planning or after a campaign has run, it creates 
 barriers to successful reporting. There are three primary barriers created when this happens:
 1. Links may not be tagged consistently, so each campaign tag and/or link has to be reviewed individually to determine if it’s tied to a certain marketing campaign.
 2. Manually attempting to tie all data makes it much harder to be certain of the quality of the resulting data.
 3. Reporting during a marketing campaign becomes virtually impossible and reporting must be delayed until after the marketing efforts are completed. Without regular reporting during the campaign, the strategist managing the marketing efforts is unable to gauge how things are going and determine if changes should be made mid-campaign.
 
-#### Good Campaign Tracking:
+### Good Campaign Tracking:
 1. saves hours of work trying to manually tie disparate pieces of data together,
 2. ensures better quality data, and
 3. can feed into a live dashboard to allow the campaign and functional ADs to monitor the status from start to finish and shift gears mid-campaign, remaining nimble based on the incoming data.
 
-#### Setting Campaign Goals: Focus on Specific Behavior
+## Setting Campaign Goals: Focus on Specific Behavior
 
 While things like pageviews, likes, or email opens can be helpful to the marketing team, they generally don’t qualify as adequate campaign goals. Campaign goals should reflect the behavior you want the user to exhibit – attend an event, register for an email campaign or complete an application.
 
@@ -95,7 +95,6 @@ However, on a broader basis, likes are not data you can use to make decisions on
 | Marketing Spend | Return on Marketing Investment |
 | Total Students Acquired | Customer Acquisition Cost |
 | Monthly Revenue per Customer | Customer Lifetime Value |
-
 
 Note: This is not to say that a member of the email team shouldn’t concern themselves with something like an email open rate, or that a member of the social team shouldn’t be concerned with social media engagement metrics. As subject matter experts in those specific areas, the teams can use this data to adjust and update campaigns to meet goals. For the purposes of reporting on campaign success to our clients though, those metrics don’t tell the client very much about whether their campaign performed as desired or expected. Our purpose is to move toward defining our clients’ primary goal, and then discuss what we can do to measure that and measure the right things to see whether we met that goal.
 
@@ -144,7 +143,7 @@ You can view the current list of campaign parameters in the Marketing Network Te
 If you have questions or feel the need for additional campaign parameters, contact David or 
 Maegan. 
 
-### Campaign Parameter
+## Campaign Parameter
 
 The campaign parameter (sometimes referred to as campaign ID or campaign name) is the single-most important element to remember as you plan out projects for clients. A consistent campaign parameter provides the umbrella under which to house the tracking for each of the various deliverables for your campaigns. Campaign parameters are set between the Social Media AD and the Sr. Manager of Media Planning. A list of pre-set names is available in SharePoint, but if a new name is needed the Social Media AD and the Sr. Manager of Media Planning will create the campaign parameters and add these to the listing.
 
@@ -178,7 +177,7 @@ As an example, between Aug. 26 and Sept. 4, 2021, we used 586 different campaign
 
 While there’s no hard rule about character length you should use enough characters to accurately describe your campaign but keep it relatively short and easy to remember and use consistently for campaigns between various channels. Something like “sustainability summit” is going to be much easier to remember over “sustainability summit 2021 attendees and speakers target audience Dallas County Earth Day Interest.”
 
-### Source / Medium and Examples
+## Source / Medium and Examples
 
 Your source is the origin of your traffic. Your medium is the general category the source falls into. 
 
@@ -208,7 +207,7 @@ Here are some examples of source/medium and how they relate to each other:
 | QR Code | Print |
 | Valpak | Print |
 
-### Ad Content Parameter
+## Ad Content Parameter
 
 This is typically where you’re going to include a little more specific information about your ad. 
 
@@ -235,7 +234,7 @@ URL: https://www.dallascollege.edu/about/works/pages/default.aspx?utm_source=sho
 
 If you’re ever unsure about a clean URL, don’t hesitate to double check with a member of the Digital Experience team.
 
-### **UPDATE:** Building a UTM; Use a - for Spaces
+### UPDATE: Building a UTM; Use a - for Spaces
 
 You should avoid using any special characters in your tracking parameters. You can use a plus sign, a dash or underscore to add spaces in the resulting reporting, but that’s pretty much it. The reason for this is that some characters (like the ampersand or spaces) may break up your tagging in unintended ways, causing inconsistency/issues in the data that comes through. Dallas College Marketing uses hyphens for spaces to ensure consistency across all platforms and underscore to 
 delineate between elements under UTM_Content.
@@ -244,17 +243,17 @@ delineate between elements under UTM_Content.
 
 Pixels added to the website for advertising and/or remarketing purposes need to be evaluated every 90 days. This is to ensure that, once a pixel is no longer in use, it can be removed from the website promptly.
 
-### Other Good-to-Know Info
+## Other Good-to-Know Info
 
-#### What web data we can collect
+### What web data we can collect
 Web traffic via Google Analytics can only be collected from web properties we own or have access to. That includes properties like www.dallascollege.edu, blog.dallascollege.edu and go.activecalendar.com. You want web data from Amazon.com? We can’t do it. Or to know who tunes in on your WebEx event – we can’t track that either.
 
 SharePoint Online is an area where we struggle to get strong analytics. If you or your client have access to a particular SPO area, you should be able to access this using the “Analytics” option in the menu toward the top of the page. The given data is usually very basic – page viewers, page views, time per user, and patterns by time.
 
-#### Tracking Events on the Website
+### Tracking Events on the Website
 Event tracking and triggering works from the time of set-up going forward. If the appropriate tracking is not in place before the launch of your campaign, there is no way to go back and get it.
 
-#### Working with vendors or agencies
+### Working with vendors or agencies
 
 When working with vendors, be sure they’re following our tagging guidelines as well. They may want to include their name or other info in their UTM parameters, but as shown in the belo example, inconsistency with these standards can cause issues with our reporting.
 
@@ -262,7 +261,7 @@ Suggested vendor format: use the term parameter to designate which agency made t
 
 ?utm_source=facebook&utm_medium=social&utm_campaign=name-ofcampaign&utm_term=belo&utm_content=ad-filename-if-applicable 
 
-### Additional Questions and Answers
+## Additional Questions and Answers
 **Does this affect project/task naming conventions in WorkZone [or other internal tool]?**
 Nope! This is solely intended for links and web pages we market to outside of Dallas College digital properties.
 
