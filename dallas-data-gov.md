@@ -245,8 +245,16 @@ Pixels added to the website for advertising and/or remarketing purposes need to 
 
 ## Other Good-to-Know Info
 
-### What web data we can collect
+### What web data we can collect?
+
 Web traffic via Google Analytics can only be collected from web properties we own or have access to. That includes properties like www.dallascollege.edu, blog.dallascollege.edu and go.activecalendar.com. You want web data from Amazon.com? We can’t do it. Or to know who tunes in on your WebEx event – we can’t track that either.
+
+Sites include:
+
+* dallascollege.edu
+* blog.dallascollege.edu
+* dallasforward.net
+* go.activecalendar.com
 
 SharePoint Online is an area where we struggle to get strong analytics. If you or your client have access to a particular SPO area, you should be able to access this using the “Analytics” option in the menu toward the top of the page. The given data is usually very basic – page viewers, page views, time per user, and patterns by time.
 
@@ -262,7 +270,9 @@ Suggested vendor format: use the term parameter to designate which agency made t
 ?utm_source=facebook&utm_medium=social&utm_campaign=name-ofcampaign&utm_term=belo&utm_content=ad-filename-if-applicable 
 
 ## Additional Questions and Answers
+
 **Does this affect project/task naming conventions in WorkZone [or other internal tool]?**
+
 Nope! This is solely intended for links and web pages we market to outside of Dallas College digital properties.
 
 Please continue deferring to team leads and Meridith as usual for help with WorkZone stuff.
