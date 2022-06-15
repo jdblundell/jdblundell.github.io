@@ -6,6 +6,8 @@ layout: post
 # Data Governance Guidelines for Marketing
 ## What is Data Governance?
 
+[Download a PDF version](https://github.com/jdblundell/jdblundell.github.io/raw/master/dallas-college-data-governance-spring-2022.pdf)
+
 Data governance is a framework used by an organization to ensure that the correct, consistent 
 data is informing our various functions. Rather than bringing in dirty data and trying to clean it 
 and make sense of it later, there are steps we can take on the front end to ensure that data is 
