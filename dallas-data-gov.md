@@ -132,9 +132,10 @@ Example:
 https://www.dallascollege.edu/default/pages.aspx?utm_campaign=fall+registration&utm_source=facebook&utm_medium=social&utm_content=image300x200.jpg
 
 Becomes:
+
 | Link | Campaign | Source | Medium | Content |
 | --- | --- | --- | --- | --- |
-| https://www.dallascollege.edu/default/pages.aspx | fall | registration | facebook | social image300x200.jpg |
+| https://www.dallascollege.edu/default/pages.aspx | fall | registration | facebook | social-image300x200.jpg |
 
 ### What Campaign Parameters Should I Use?
 
