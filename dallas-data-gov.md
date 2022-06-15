@@ -112,8 +112,8 @@ However, on a broader basis, likes are not data you can use to make decisions on
 an overall multi-channel campaign, because they do not tell you anything about how many users 
 converted or took a real action.
 
-----------------------------------
 | Vanity Metric |Actionable Metric |
+|---|---|
 | Trial Users | Converting Users| 
 | Page Views | Conversion Rate |
 | Social Media ‘Likes’ | Social Media Engagement/Referrals |
@@ -122,7 +122,6 @@ converted or took a real action.
 |  Marketing Spend | Return on Marketing Investment |
 | Total Students Acquired | Customer Acquisition Cost |
 | Monthly Revenue per Customer | Customer Lifetime Value |
-----------------------------------------------------------
 
 
 Note: This is not to say that a member of the email team shouldn’t concern themselves with 
@@ -133,94 +132,94 @@ reporting on campaign success to our clients though, those metrics don’t tell 
 about whether their campaign performed as desired or expected. Our purpose is to move toward 
 defining our clients’ primary goal, and then discuss what we can do to measure that and measure 
 the right things to see whether we met that goal.
-Behavioral Examples
+
+### Behavioral Examples
 Here are some of the main behavior/tracking goals (also referred to as conversions) the DX team 
 already have set up on the Dallas College website.
-• Users who went to the admissions application
-• Users who went to the CE application
-• Users who signed up for an email program, such as Tell Me More or the community 
+* Users who went to the admissions application
+* Users who went to the CE application
+* Users who signed up for an email program, such as Tell Me More or the community 
 newsletter 
-• Users who went to the Browsable Class Schedule
-• Users who clicked contact information, such as an email address or phone number (phone 
+* Users who went to the Browsable Class Schedule
+* Users who clicked contact information, such as an email address or phone number (phone 
 numbers tracked on mobile device clicks only) 
-• Outbound clicks (anything that doesn’t contain dallascollege.edu or dcccd.edu)
+* Outbound clicks (anything that doesn’t contain dallascollege.edu or dcccd.edu)
+
 These are great things to consider as you plan out campaigns for your clients. If you have a 
 campaign goal you feel is not addressed by the above list, let’s talk about it – we may be able to 
 figure something out for tracking that particular behavior.
-UTM Parameters
+
+## UTM Parameters
 In order to track all these actionable goals, sources and campaigns, we need to make use of 
 consistent UTM parameters. UTM parameters are like tracking tags added to the end of links to 
 gauge the effectiveness of marketing campaigns across traffic sources.
 If you would prefer an audio/video explanation, try one of these LinkedIn Learning clips:
-• Advertising on LinkedIn: Analytics, Tracking, and Attribution
-• Google Universal Analytics Essential Training: Source and Medium Through Campaign 
-Tracking
-You can also check out the article UTM Parameters Explained: A Complete Guide to Tracking Your 
-URLs & Traffic on the Search Engine Journal website.
+* [Advertising on LinkedIn: Analytics, Tracking, and Attribution](https://www.linkedin.com/learning/advertising-on-linkedin-8986011/analytics-tracking-and-attribution?u=2155810)
+* [Google Universal Analytics Essential Training: Source and Medium Through Campaign Tracking](https://www.linkedin.com/learning/google-universal-analytics-essential-training-2020/channels?u=2155810)
+
+You can also check out the article [UTM Parameters Explained: A Complete Guide to Tracking Your 
+URLs & Traffic](https://www.searchenginejournal.com/utm-codes/370088/) on the Search Engine Journal website.
 One easy way to think about UTM parameters is to think about each link being a row in a 
 spreadsheet and each UTM parameter being a column in a spreadsheet.
 When applied correctly, you can easily sort, filter and tabulate the data in each column. When the 
 data differs from one row to the next, it takes a lot of additional time and resources to properly 
 tabulate your information.
+
 Example:
-https://www.dallascollege.edu/default/pages.aspx?utm_campaign=fall+registration&utm_source
-=facebook&utm_medium=social&utm_content=image300x200.jpg
+https://www.dallascollege.edu/default/pages.aspx?utm_campaign=fall+registration&utm_source=facebook&utm_medium=social&utm_content=image300x200.jpg
+
 Becomes:
-Link Campaign Source Mediu
-m
-Content 
-https://www.dallascollege.edu/default/pages.a
-spx
-fall 
-registratio
-n
-faceboo
-k 
-social image300x200.j
-pg 
-What Campaign Parameters Should I Use?
+| Link | Campaign | Source | Medium | Content |
+|---|---|---|---|---|
+| https://www.dallascollege.edu/default/pages.aspx | fall | registration | facebook | social image300x200.jpg |
+
+### What Campaign Parameters Should I Use?
+
 You can view the current list of campaign parameters in the Marketing Network Team Site.
+
 If you have questions or feel the need for additional campaign parameters, contact David or 
 Maegan. 
-Campaign Parameter
-The campaign parameter (sometimes referred to as campaign ID or campaign name) is the 
-single-most important element to remember as you plan out projects for clients. A consistent 
-campaign parameter provides the umbrella under which to house the tracking for each of the 
-various deliverables for your campaigns. Campaign parameters are set between the Social Media 
-AD and the Sr. Manager of Media Planning. A list of pre-set names is available in SharePoint, but if 
-a new name is needed the Social Media AD and the Sr. Manager of Media Planning will create the 
-campaign parameters and add these to the listing.
-Campaign Parameter Conventions and Best Practices
+
+### Campaign Parameter
+
+The campaign parameter (sometimes referred to as campaign ID or campaign name) is the single-most important element to remember as you plan out projects for clients. A consistent campaign parameter provides the umbrella under which to house the tracking for each of the various deliverables for your campaigns. Campaign parameters are set between the Social Media AD and the Sr. Manager of Media Planning. A list of pre-set names is available in SharePoint, but if a new name is needed the Social Media AD and the Sr. Manager of Media Planning will create the campaign parameters and add these to the listing.
+
+### Campaign Parameter Conventions and Best Practices
+
 Two things - Simple is better and Google Analytics is case sensitive.
+
 Start with a simple, over-arching name that can be narrowed down further if needed.
-For GA, the best practice for your tracking parameters is to lowercase everything. Seems silly, 
-right? Just remember that Google reads your tags literally. That one detail is enough to create 
-cardinality issues in the data between things like “Facebook” and “facebook.” The simplest rule to 
-remember is “just lowercase it.”
-Additionally, once you’ve designated a name for your campaign, that’s it. That’s the name you’re 
-using. You cannot change it partway through.
-“Good” Campaign Parameter Examples
-• spring-registration
-• fall-registration
-• sustainability
-• meningitis-vaccine-clinics 
-“Bad” Campaign Parameter Examples – (targets or specific dates shouldn’t be part of the name)
-• fall 2021-reg not paid-081221
-• meningitis needed-registered for fall-080921
-• fall 2021-reg not paid-080321
-• fall registration 2021
-• fall 2021 reg-aug 4-spring students
+
+For GA, the best practice for your tracking parameters is to lowercase everything. Seems silly, right? Just remember that Google reads your tags literally. That one detail is enough to create cardinality issues in the data between things like “Facebook” and “facebook.” The simplest rule to remember is “just lowercase it.”
+Additionally, once you’ve designated a name for your campaign, that’s it. That’s the name you’re using. You cannot change it partway through.
+
+### “Good” Campaign Parameter Examples
+* spring-registration
+* fall-registration
+* sustainability
+* meningitis-vaccine-clinics 
+
+### “Bad” Campaign Parameter Examples – (targets or specific dates shouldn’t be part of the name)
+* fall 2021-reg not paid-081221
+* meningitis needed-registered for fall-080921
+* fall 2021-reg not paid-080321
+* fall registration 2021
+* fall 2021 reg-aug 4-spring students
+
 As an example, between Aug. 26 and Sept. 4, 2021, we used 586 different campaign tags. Of 
 those 586, at least 139 campaigns were related to Fall registration. Without consistent branding, 
 someone had to manually filter and combine the data from each of these 139 campaigns and 
 chances are high that some traffic will get lost or underreported. 
-Length/Number of Characters
+
+### Length/Number of Characters
+
 While there’s no hard rule about character length you should use enough characters to accurately 
 describe your campaign but keep it relatively short and easy to remember and use consistently for 
 campaigns between various channels. Something like “sustainability summit” is going to be much 
 easier to remember over “sustainability summit 2021 attendees and speakers target audience 
 Dallas County Earth Day Interest.”
-Source / Medium and Examples
+
+### Source / Medium and Examples
 Your source is the origin of your traffic. Your medium is the general category the source falls into. 
 Here are some examples of source/medium and how they relate to each other:
 Source Medium
