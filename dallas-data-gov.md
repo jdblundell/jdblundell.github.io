@@ -67,7 +67,7 @@ If you are introducing a completely new service or product, awareness could be a
 
 Even measuring items that show engagement – likes, shares, opens or even clicks – may still be incomplete without context.
 
-Data without context has no meaning.
+**Data without context has no meaning.**
 
 Pageviews don’t tell you anything about what users did once they landed on the page. Driving traffic to the website is great, but it’s not enough – what happened once they got there? 
 
