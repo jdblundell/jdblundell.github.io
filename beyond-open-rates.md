@@ -18,4 +18,4 @@ layout: post
 | 300                          | 5%                                                   | 6000                                        | 2%                            | 300,000              |
 
 
-[Download the Spreadsheet](#)
+[Download the Spreadsheet]((https://github.com/jdblundell/jdblundell.github.io/raw/master/ctr-calculator.xlsx))
