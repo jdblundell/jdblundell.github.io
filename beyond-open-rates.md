@@ -11,4 +11,11 @@ layout: post
 * Column D is your average CTR for the audience you're sending the email to
 * Column E is a formula =SUM(C2/D2)
 
+## Spreadsheet Output
+---------------------------------
+|How many people do you need?|What's your average conversion rate on your web page?|How many people need to come to the web page|What's your average email CTR|Your needed list size|
+|300|5%|6000|2%|300,000|
+------------------------
+
+
 [Download the Spreadsheet](#)
