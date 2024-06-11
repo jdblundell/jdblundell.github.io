@@ -17,5 +17,9 @@ layout: post
 |------------------------------|------------------------------------------------------|---------------------------------------------|-------------------------------|----------------------|
 | 300                          | 5%                                                   | 6000                                        | 2%                            | 300,000              |
 
+### Resources
+* [Download the Spreadsheet](https://github.com/jdblundell/jdblundell.github.io/raw/master/ctr-calculator.xlsx)
+* [Download the Deck](https://github.com/jdblundell/jdblundell.github.io/raw/master/jdblundell-taccm-openrates.pptx)
 
-[Download the Spreadsheet]((https://github.com/jdblundell/jdblundell.github.io/raw/master/ctr-calculator.xlsx))
+### Work for Dallas College
+* [Senior Manager, Email Marketing](https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers/job/Dallas-College-Administration/Senior-Manager--Email-Marketing_R5746?source=jdblundell)
