@@ -4,7 +4,7 @@ layout: post
 ---
 ## Can the Bots Get Me Coffee Yet? - TACCM 2025
 
-* [Download the Deck](https://github.com/jdblundell/jdblundell.github.io/raw/master/jblundell-ai-intern-no-video.pptx)
+* [Download the Deck](https://github.com/jdblundell/jdblundell.github.io/raw/master/jblundell-ai-intern.pptx)
 
 
 ### Action Figure Prompt
