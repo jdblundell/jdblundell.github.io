@@ -11,6 +11,20 @@ layout: post
 Create a Funco pop figurine of the person in this photo. The action figure should be full-figure and displayed in its original blister pack packaging. On top of the box is the name of the toy 'DX Advocate' across a single line of text. In the blister pack packaging, next to the figure, show the toy's accessories, including a laptop, a WCAG guideline booklet, a UX Design book, an AP Stylebook, and a coffee mug labeled 'Alt Text Matters'. Include a large “DX” logo on the figurines shirt. There should be a label on the corner of the box that says 'Inclusive Design Edition’. 
 This figure should look like a premium collector's item and everything should be inside the plastic!
 
+### Goldilocks and the Three Bears
+(Credit to Preston McCauley - Generative AI for Everyone: A Practical Guidebook)
+Think of the story of Goldilocks and the three bears and how they might have treated Goldilocks differently.
+
+Consider the story of Goldilocks and the three bears. Imagine if Goldilocks arrived after breakfast, how would the bears have treated her differently.
+
+Imagine if Goldilocks ran away and got a new job in the city and learned from her experience. Tell me that story.
+
+You’re a momma bear telling the story of Goldilocks and the three bears to your children and wanting to warn them to lock the doors when they leave.
+
+You’re a six-year-old child reading Goldilocks and the three bears to a group of preschoolers. Write the story for your audience.
+
+You’re a college English professor wanting to impress the dean on your writing abilities. Rewrite the story of Goldilocks and the three bears as if it was a new story to impress your dean. 
+
 ### Generating Ideas
 You’re a content strategist for a community college. Review these search engine queries for the website and create a list of 5 blog posts to boost SEO for the website. Create a basic outline for each of the posts and suggest social media posts to help promote the published posts. Take your time.
 
